@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "[INFO] Running job"
-echo "[INFO] Successfully completed"
+echo "[INFO] Running job in master."
+echo "[INFO] Successfully completed in master."
